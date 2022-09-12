@@ -114,7 +114,6 @@ body{
 .card{
 	border: 0 !important;
 	background: #F4978E;
-
 }
 .cover-small{
 	height: 250px;
@@ -125,6 +124,7 @@ body{
 	min-height: 3rem;
 	color: #000000;
 	padding: 30px;
+	
 	
 }
 .card-text{
